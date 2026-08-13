@@ -1,0 +1,6 @@
+print("hello, future AI engineer")
+name = input("enter your name : ")
+age = int(input("enter your age : "))
+fav_lang = input("enter your favourite programing language : ")
+dream_job = input("enter your dream job : ")
+print(f"welcome {name}. \nyou will be {age + 5} years old after 5 years. \nEvery expert was once a beginner. keep coding! ")
